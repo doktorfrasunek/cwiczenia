@@ -1,0 +1,13 @@
+git init
+git add
+git commit
+git checkout --
+git checkout -b
+git revert
+git reset
+git log 
+git status
+git push -u
+git push
+git fetch
+git remote
